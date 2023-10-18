@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Operácia srdca",
+            "category": "SURGERY"
+        },
+        {
+            "id": 2,
+            "name": "Operácia zlomeniny",
+            "category": "SURGERY"
+        },
+        {
+            "id": 3,
+            "name": "Operácia dolnej končatiny",
+            "category": "SURGERY"
+        },
+        {
+            "id": 4,
+            "name": "Odber krvi",
+            "category": "ONE_DAY_HEALTH_CARE"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "gender": "MALE"
+        },
+        {
+            "id": 2,
+            "name": "Jane Doe",
+            "gender": "FEMALE"
+        },
+        {
+            "id": 3,
+            "name": "Keyaan Guerra",
+            "gender": "MALE"
+        },
+        {
+            "id": 4,
+            "name": "Ishaan Bruce",
+            "gender": "FEMALE"
+        },
+        {
+            "id": 5,
+            "name": "Jaime Douglas",
+            "gender": "MALE"
+        },
+        {
+            "id": 6,
+            "name": "Edie Decker",
+            "gender": "FEMALE"
+        },
+        {
+            "id": 7,
+            "name": "Lorraine Villanueva",
+            "gender": "MALE"
+        },
+        {
+            "id": 8,
+            "name": "Bushra Hoffman",
+            "gender": "FEMALE"
+        },
+        {
+            "id": 9,
+            "name": "Emre Sears",
+            "gender": "FEMALE"
+        },
+        {
+            "id": 10,
+            "name": "Sufyaan Fields",
+            "gender": "MALE"
+        },
+        {
+            "id": 11,
+            "name": "Shirley Case",
+            "gender": "MALE"
+        },
+        {
+            "id": 12,
+            "name": "Edgar Bush",
+            "gender": "FEMALE"
+        }
+    ]
+}

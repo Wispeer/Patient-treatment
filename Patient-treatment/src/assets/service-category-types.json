@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "name": "Vyšetrenie",
+            "type": "EXAMINATION"
+        },
+        {
+            "name": "Operácia",
+            "type": "SURGERY"
+        },
+        {
+            "name": "JZS",
+            "type": "ONE_DAY_HEALTH_CARE"
+        },
+        {
+            "name": "Hospitalizácia",
+            "type": "HOSPITALIZATION"
+        }
+    ]
+}
