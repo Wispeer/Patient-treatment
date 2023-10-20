@@ -4,7 +4,7 @@ export interface Patients {
     patient: Patient[]
 }
 
-export interface DataPatients {
-
-    patients: Patients[]
+export interface data {
+    data: Patients[]
+    // patients: Patients[]
 }
